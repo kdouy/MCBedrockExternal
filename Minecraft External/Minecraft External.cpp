@@ -59,26 +59,11 @@ int main()
 
         if (speed_addy)
         {
+            /* this one set speed value */
             set_value_float(game_handle, (uintptr_t)speed_addy, 0.6f);
-            // set_value(game_handle, (uintptr_t)fly_addy, 0x1);
+            /* this one set fly value (0x0) is unfly and (0x1) is fly */
+            set_value(game_handle, (uintptr_t)fly_addy, 0x1);
         }
         Sleep(100);
     }
-
-    // fly_loop
-    /*
-    while (true)
-    {
-        // uintptr_t fly_addy = get_ptr_addr(game_handle, (uintptr_t)fly_buffers.first, { 0x0 });
-        // uintptr_t speed_addy = get_ptr_addr(game_handle, (uintptr_t)speed_buffers.first, { 0x0 });
-
-        if (true)
-        {
-            float value = 0.3;
-            // set_value(game_handle, (uintptr_t)speed_addy, value);
-            // set_value(game_handle, (uintptr_t)fly_addy, 0x1);
-        }
-        Sleep(100);
-    }
-    */
 }
