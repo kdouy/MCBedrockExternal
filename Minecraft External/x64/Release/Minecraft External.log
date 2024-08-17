@@ -1,0 +1,12 @@
+﻿  Minecraft External.cpp
+C:\Users\dope\source\repos\Minecraft External\Minecraft External\aob.h(124,44): warning C4312: 'type cast': conversion from 'ULONG' to 'LPVOID' of greater size
+C:\Users\dope\source\repos\Minecraft External\Minecraft External\aob.h(130,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dope\source\repos\Minecraft External\Minecraft External\aob.h(136,53): warning C4312: 'type cast': conversion from 'ULONG' to 'LPVOID' of greater size
+  Generating code
+  4 of 149 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Minecraft External.vcxproj -> C:\Users\dope\source\repos\Minecraft External\x64\Release\Minecraft External.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

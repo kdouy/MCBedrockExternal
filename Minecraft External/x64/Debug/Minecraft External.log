@@ -1,0 +1,8 @@
+﻿  Minecraft External.cpp
+C:\Users\dope\source\repos\Minecraft External\Minecraft External\aob.h(103,44): warning C4312: 'type cast': conversion from 'ULONG' to 'LPVOID' of greater size
+C:\Users\dope\source\repos\Minecraft External\Minecraft External\aob.h(109,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dope\source\repos\Minecraft External\Minecraft External\aob.h(115,53): warning C4312: 'type cast': conversion from 'ULONG' to 'LPVOID' of greater size
+C:\Users\dope\source\repos\Minecraft External\Minecraft External\Minecraft External.cpp(19,9): warning C4551: function call missing argument list
+  Minecraft External.vcxproj -> C:\Users\dope\source\repos\Minecraft External\x64\Debug\Minecraft External.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
